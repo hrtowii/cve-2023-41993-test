@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "http-serve": "^1.0.1"
+  }
+}
